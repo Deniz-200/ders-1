@@ -1,0 +1,164 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(255, 25, 0);
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    gap: 10px;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+}
+.navbar div{
+width: 100px;
+height: 50px;
+background-color: aliceblue;
+}
+.buton{
+    width: 170px;
+    height: 40px; 
+    border-radius: 100px;
+    margin: -15px;
+background-color: darkblue;
+color: white;
+text-align: center;
+}
+.aa{
+    width: 100%;
+    height: 100vh;
+    background-color: chartreuse;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.aa div{
+width: 500px;
+height: 500px;
+background-color: blueviolet;
+display: flex;
+} 
+.bb{
+    width: 100%;
+    height: 50vh;
+    background-color: rgb(53, 43, 147);
+    align-items: center;    
+    justify-content: center; padding: 100px 500px;
+}
+.b1{
+    width: 500px;
+    height: 250px;
+    background-color: crimson;
+}
+.cc{
+    width: 100%;
+    height: 50vh;
+    background-color: rgb(53, 43, 147);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+
+}
+.cc div{
+width: 400px;
+height: 200px;
+background-color: crimson;
+}
+.dd{
+    width: 100%;
+    height: 90vh;
+    background-color: darkmagenta;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.d1{
+width: 750px;
+height: 500px;
+background-color: gold;
+}
+.d2{
+    width:450px;
+    height: 500px;
+    background-color: gold;
+
+
+}
+.ee{
+    width:100%;
+    height: 100px;
+    background-color: rgb(245, 139, 0);
+    align-items: center;
+    justify-content: center;
+    padding: 0 500px;
+}
+.ee div{
+    width: 400px;
+    height: 100px; background-color: greenyellow;
+
+}
+.qq{
+   width: 100%;
+   height: 90vh;
+   background-color: rgb(245, 139, 0); 
+   align-items: center;
+   display: flex;
+   justify-content:center;
+   flex-direction: column;
+flex-wrap: wrap;
+   gap: 30px; 
+   padding: 75px;
+
+}
+.qq div{
+    width: 300px;
+    height: 150px;
+    background-color: darkgray;
+}
+.rr{
+    width:100%;
+    height: 100px;
+    background-color: rgb(101, 101, 101);
+    align-items: center;
+    justify-content: center;
+    padding: 0 500px;
+} 
+.rr div{
+    width: 400px;
+    height: 100px; background-color: rgb(0, 0, 0);
+}
+.yy{
+    width: 100%;
+    height: 60vh;
+    background-color: rgb(101, 101, 101); 
+    align-items: center;
+    display: flex; 
+    gap: 50px;
+    justify-content: center;
+}
+.yy div{
+    width: 450px;
+    height: 300px;
+    background-color: rgb(0, 0, 0);
+}
+.end{
+    width: 100%;
+    height: 60vh;
+    background-color: rgb(232, 232, 232);  
+}
+
+
+
+
+
